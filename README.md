@@ -3,11 +3,9 @@
 
 - 📫 How to reach me **ashevelevmti@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/SHEVEL0V/summary.git](https://github.com/SHEVEL0V/summary.git)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/andriy-shevelov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andriy-shevelov/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/andriy-shevelov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andriy-shevelov" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100010299646653&locale=uk_ua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010299646653&locale=uk_ua" height="30" width="40" /></a>
 </p>
 
