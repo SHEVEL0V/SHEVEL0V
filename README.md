@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrii</h1>
 <h3 align="center">I'm Shevelov Andrii, junior fulstec developer.</h3>
 
-- 📫 How to reach me **ashevelevmti@gmail.com**
+- 📫 How to reach me **an.shevelov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
