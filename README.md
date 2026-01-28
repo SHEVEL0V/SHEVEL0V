@@ -32,14 +32,6 @@
 
 ---
 
-### 📊 Статистика коду
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shevel0v&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Зв'язатися зі мною
 
 <p align="center">
