@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Andrii Shevelov</h1>
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-dark.svg">
+ <img alt="snake!" src="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-light.svg">
+</picture>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Fullstack+Developer;TypeScript+Ecosystem+Expert;AI-Driven+Development+Enthusiast" alt="Typing SVG" />
