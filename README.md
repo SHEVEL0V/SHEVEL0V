@@ -6,18 +6,17 @@
   </a>
 </p>
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-dark.svg">
- <img alt="snake!" src="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-light.svg">
-</picture>
-
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Focus-Fullstack-success?style=for-the-badge&logo=rocket&logoColor=white" alt="Fullstack" />
   <img src="https://img.shields.io/badge/Location-Kyiv%2C%20Ukraine-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Kyiv" />
 </p>
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-dark.svg">
+ <img alt="snake!" src="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-light.svg">
+</picture>
+
 
 ### 🛠 Технологічний стек
 <p align="center">
