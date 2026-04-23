@@ -2,23 +2,23 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3178C6&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Specialized+in+TypeScript;Next.js+%26+React+Ecosystem" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3178C6&center=true&vCenter=true&width=500&lines=Fullstack+Developer;TypeScript+Ecosystem+Expert;AI-Driven+Development+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 Про мене
+### 👨‍💻 About Me
 
-Я спеціалізуюся на створенні типізованих, швидкодійних веб-додатків. Маю глибокий інтерес до сучасної екосистеми React та серверного рендерингу.
+I am a **Fullstack Developer** specializing in building type-safe, high-performance web applications. I have a deep-seated passion for the modern React ecosystem and server-side rendering technologies.
 
-* 🔭 Зараз працюю над оптимізацією архітектури за допомогою **Next.js 15/16** (App Router, Server Actions) та **React 19**.
-* 🌱 Постійно вдосконалюю навички роботи з **Docker**, **Prisma** та реляційними базами даних (**MySQL**).
-* ⚡ Підхід: написання чистого, підтримуваного коду з суворою типізацією.
+* 🔭 Currently optimizing architectures using **Next.js 15/16** (App Router, Server Actions) and **React 19**.
+* 🌱 Constantly refining my skills in **Docker containerization**, **Prisma ORM**, and relational databases (**MySQL**).
+* ⚡ My approach: writing clean, maintainable, and strictly typed code that scales.
 
 ---
 
-### 🛠 Технологічний стек
+### 🛠 Tech Stack
 
 **Frontend:**
 <br/>
@@ -55,7 +55,7 @@
 
 ---
 
-### 📫 Зв'язатися зі мною
+### 📫 Connect with me
 
 <p align="left">
   <a href="mailto:an.shevelov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
