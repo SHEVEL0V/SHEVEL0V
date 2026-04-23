@@ -20,8 +20,6 @@
 
 ### 🛠 Технологічний стек
 
-Усі бейджі зведено до єдиного мінімалістичного стилю `flat-square` для кращого візуального сприйняття.
-
 **Frontend:**
 <br/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -39,6 +37,13 @@
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+
+**AI-Driven Development & Assistants:**
+<br/>
+<img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github-copilot&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white" />
 
 **Tools & Infrastructure:**
 <br/>
