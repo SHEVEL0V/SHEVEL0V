@@ -8,16 +8,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-I am a **Fullstack Developer** specializing in building type-safe, high-performance web applications. I have a deep-seated passion for the modern React ecosystem and server-side rendering technologies.
-
-* 🔭 Currently optimizing architectures using **Next.js 15/16** (App Router, Server Actions) and **React 19**.
-* 🌱 Constantly refining my skills in **Docker containerization**, **Prisma ORM**, and relational databases (**MySQL**).
-* ⚡ My approach: writing clean, maintainable, and strictly typed code that scales.
-
----
-
 ### 🛠 Tech Stack
 
 **Frontend:**
